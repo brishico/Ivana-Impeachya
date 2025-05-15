@@ -136,5 +136,6 @@ send_error_email(error_message)
 ## 👑 Credits
 
 Created by someone bold enough to build a bot with claws: Brishico -  brishico@proton.me
+
 Powered by OpenAI, run on caffeine and spite, and dressed in digital glitter.
 ---
